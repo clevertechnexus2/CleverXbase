@@ -3,24 +3,24 @@ generated = []
 
 [[outputs]]
 id = "s30RUf7Uxtwd0m1GW1fOd"
-uri = "file://screenshots/Cleverxnode-landing.jpg"
+uri = "file://screenshots/Cleverxnode-landing.png"
 type = "image"
 title = "CleverXnode — Hero Only"
 
 [[outputs]]
 id = "RJEHwdy2EVx-HyInf2mhN"
-uri = "file://screenshots/Cleverxcore-landing.jpg"
+uri = "file://screenshots/Cleverxcore-landing.png"
 type = "image"
 title = "CleverXcore — Game Server Management Panel"
 
 [[outputs]]
 id = "9vQl_HHOJ56Stw_lCzryR"
-uri = "file://screenshots/Cleverxbase-hero.jpg"
+uri = "file://screenshots/Cleverxbase-hero.png"
 type = "image"
 title = "CleverXbase — MongoDB Management Dashboard"
 
 [[outputs]]
 id = "D5mSUMXmgS641u0NNDqib"
-uri = "file://screenshots/Cleverxapis-hero.jpg"
+uri = "file://screenshots/Cleverxapis-hero.png"
 type = "image"
 title = "CleverXapis — Multi-Provider API Hub"
