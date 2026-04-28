@@ -87,6 +87,9 @@ Create a `.env` file in the project root:
 PORT=3001
 SESSION_SECRET=replace-with-a-long-random-secret
 ```
+user to get random key
+---
+      openssl rand -hex 32
 
 > Never commit your `.env` file — it is already listed in `.gitignore`.
 
