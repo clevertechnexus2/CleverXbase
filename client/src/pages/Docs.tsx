@@ -114,7 +114,7 @@ export default function Docs() {
             <div className="card p-4 border-emerald-800/50 bg-emerald-950/20">
               <p className="text-emerald-300 text-sm font-semibold mb-2">How the admin account is created</p>
               <p className="text-slate-400 text-sm leading-relaxed">
-                On the very first startup, wolfXbase automatically creates an <strong className="text-slate-200">admin</strong> account
+                On the very first startup, CleverXbase automatically creates an <strong className="text-slate-200">admin</strong> account
                 with a randomly generated password. The password is printed once in the server console — look for the banner below.
               </p>
             </div>
