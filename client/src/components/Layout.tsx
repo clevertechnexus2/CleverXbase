@@ -26,7 +26,7 @@ function SidebarContent({ mobile, onClose, onLogout }: { mobile?: boolean; onClo
         </div>
         <div className="flex-1 min-w-0">
           <p className="font-display font-bold text-sm leading-tight tracking-widest">
-            <span className="text-primary">wolf</span><span className="text-white">Xbase</span>
+            <span className="text-primary">Clever</span><span className="text-white">Xbase</span>
           </p>
           <p className="text-primary/50 text-xs font-mono">MongoDB Manager</p>
         </div>
@@ -80,9 +80,9 @@ function SidebarContent({ mobile, onClose, onLogout }: { mobile?: boolean; onClo
           >
             <span className="text-primary text-xs font-black">W</span>
           </div>
-          <span className="text-xs font-display font-bold text-primary/80 tracking-widest">WOLF TECH</span>
+          <span className="text-xs font-display font-bold text-primary/80 tracking-widest">Clever Tech Nexus</span>
         </div>
-        <p className="text-gray-700 text-xs leading-snug pl-7 font-mono">~ Silent Wolf</p>
+        <p className="text-gray-700 text-xs leading-snug pl-7 font-mono">~ CleverXbase</p>
       </div>
     </div>
   );
@@ -103,7 +103,7 @@ function Footer() {
             </div>
             <div>
               <span className="text-white font-display font-bold text-sm tracking-widest">
-                <span className="text-primary">wolf</span>Xbase
+                <span className="text-primary">Clever</span>Xbase
               </span>
               <span className="text-gray-700 text-xs ml-2 hidden sm:inline font-mono">Self-hosted MongoDB Management</span>
             </div>
@@ -125,7 +125,7 @@ function Footer() {
         </div>
 
         <div className="mt-4 pt-4 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-2" style={{ borderTop: '1px solid hsl(120 100% 50% / 0.08)' }}>
-          <p className="text-gray-700 text-xs font-mono">© {year} WOLF TECH ~ Silent Wolf. All systems operational.</p>
+          <p className="text-gray-700 text-xs font-mono">© {year} Clever Tech Nexus ~ CleverXbase. All systems operational.</p>
           <div className="flex items-center gap-2">
             <div
               className="w-4 h-4 rounded flex items-center justify-center text-primary text-xs font-black shrink-0"
@@ -133,7 +133,7 @@ function Footer() {
             >
               W
             </div>
-            <span className="text-xs font-display font-bold text-primary/70 tracking-widest">WOLF TECH</span>
+            <span className="text-xs font-display font-bold text-primary/70 tracking-widest">Clever Tech Nexus</span>
           </div>
         </div>
       </div>
@@ -173,7 +173,7 @@ export default function Layout() {
           <div className="flex items-center gap-2">
             <Zap className="w-4 h-4 text-primary" />
             <span className="font-display font-bold text-sm tracking-widest">
-              <span className="text-primary">wolf</span><span className="text-white">Xbase</span>
+              <span className="text-primary">Clever</span><span className="text-white">Xbase</span>
             </span>
           </div>
         </header>
