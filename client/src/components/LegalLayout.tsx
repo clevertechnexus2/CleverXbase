@@ -63,7 +63,7 @@ export default function LegalLayout({ title, subtitle, lastUpdated, children }: 
               </div>
               <p className="text-gray-700 text-xs leading-relaxed font-mono">
                 Self-hosted MongoDB management dashboard<br />
-                by WOLF TECH ~ Silent Wolf
+                by Clever Tech Nexus ~ CleverXbase
               </p>
             </div>
 
@@ -75,7 +75,7 @@ export default function LegalLayout({ title, subtitle, lastUpdated, children }: 
                 <Link to="/dashboard/docs" className="text-gray-600 hover:text-primary transition-colors">Docs</Link>
                 <a href="mailto:support@wolftech.dev" className="text-gray-600 hover:text-primary transition-colors">Support</a>
               </nav>
-              <p className="text-gray-700 text-xs font-mono">© {year} WOLF TECH ~ Silent Wolf. All rights reserved.</p>
+              <p className="text-gray-700 text-xs font-mono">© {year} Clever Tech Nexus ~ CleverXbase. All rights reserved.</p>
             </div>
           </div>
         </div>
