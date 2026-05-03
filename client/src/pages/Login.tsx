@@ -46,7 +46,7 @@ export default function Login() {
             <Zap className="w-8 h-8 text-primary" />
           </div>
           <h1 className="text-3xl font-display font-bold tracking-widest text-white">
-            <span className="text-primary">wolf</span>Xbase
+            <span className="text-primary">Clever</span>Xbase
           </h1>
           <p className="text-gray-500 text-xs mt-2 font-mono tracking-wider">Sign in to manage your databases</p>
         </div>
