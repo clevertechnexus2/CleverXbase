@@ -219,6 +219,6 @@ See [LICENSE](LICENSE) for full terms.
 
 ## Built by
 
-**WOLF TECH ~ Silent Wolf**
+**WOLF TECH ~ CleverXbase**
 Support: [support@clevertechnexus.qzz.io](mailto:support@clevertechnexus.qzz.io)
 Live dashboard: [https://database.clevertechnexus.qzz.io](https://database.clevertechnexus.qzz.io)
