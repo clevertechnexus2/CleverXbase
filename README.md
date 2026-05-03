@@ -29,7 +29,7 @@ Deployed on a private VPS running Node.js on port `3001` behind an Nginx reverse
 
 - **Multi-app connections** — connect to multiple MongoDB instances simultaneously
 - **Database & collection browser** — navigate databases, collections, and documents with pagination
-- **Document viewer** — formatted JSON view of all stored documents
+- **Document viewer** — formatted JSON view of all stored documents.
 - **User management** — manage dashboard access with admin and user roles
 - **Real-time stats** — storage sizes, document counts, and connection status at a glance
 - **Atlas Data API-compatible HTTP API** — drop-in REST endpoint for your apps
